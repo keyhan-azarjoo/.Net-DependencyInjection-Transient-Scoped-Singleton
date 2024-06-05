@@ -1,0 +1,1 @@
+# .Net-DependencyInjection-Transient-Scoped-Singleton
