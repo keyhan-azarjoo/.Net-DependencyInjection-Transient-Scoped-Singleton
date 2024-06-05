@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DependencyInjection_Transient_Scoped_Singleton.props" />
+</Project>

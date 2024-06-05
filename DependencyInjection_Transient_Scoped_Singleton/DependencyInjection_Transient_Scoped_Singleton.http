@@ -1,0 +1,6 @@
+@DependencyInjection_Transient_Scoped_Singleton_HostAddress = http://localhost:5138
+
+GET {{DependencyInjection_Transient_Scoped_Singleton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
